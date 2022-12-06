@@ -10,7 +10,7 @@ import "channels"
 import "jquery"
 import "popper.js"
 import "bootstrap"
-import "chartkick/chart.js"
+// import "chartkick/chart.js"
 import '@fortawesome/fontawesome-free/js/all';
 import "../stylesheets/application" 
 
